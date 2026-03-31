@@ -1,0 +1,2 @@
+# AI-Powered-Weather-Prediction-and-Crop-Protection-System
+This project is an AI-based smart agriculture system designed to assist farmers by providing accurate weather predictions and crop protection recommendations. The system uses machine learning algorithms and real-time data analysis to help farmers make informed decisions, improve crop yield, and reduce losses due to unpredictable weather conditions.
