@@ -24,7 +24,7 @@ Follow these steps to clone, setup, and run the project locally.
 1. Setup API Keys
 
 You need to configure:
-WE HAVE USED STREAMLIT FOR API SO TAKE REFERENCE FROM THE SITES OR TAKE HELP FROM GPT 
+WE HAVE USED STREAMLIT FOR API TO TAKE REFERENCE FROM THE SITES OR TAKE HELP FROM GPT 
 
 🌦️ Agro API Key (your custom API)
 🤖 Gemini AI API Key
